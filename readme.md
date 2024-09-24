@@ -1,6 +1,5 @@
 RUSH ROLL
-              
-                   ~A luck based game...
+               A luck based game...
 
 Instructions:
 
